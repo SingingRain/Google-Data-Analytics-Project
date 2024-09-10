@@ -1,0 +1,1 @@
+You will find more details about what exactly this project entailed in the repository files, but in short, this exercise involved using Python to analyze a dataset from Bellabeat to learn more about how their customers are using their products. 
